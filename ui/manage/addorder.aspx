@@ -6,6 +6,7 @@
 <head runat="server">
     <title>Quản lý phiếu order</title>
     <!--Basic Styles-->
+    <!--Basic Styles-->
     <link href="../../assets/css/bootstrap.min.css" rel="stylesheet" />
     <link href="../../assets/css/font-awesome.min.css" rel="stylesheet" />
     <link href="../../assets/css/weather-icons.min.css" rel="stylesheet" />
@@ -38,7 +39,7 @@
                 <!-- Navbar Barnd -->
                 <div class="navbar-header pull-left" style="margin-top:4px;">
                     <small>
-                        <a href="#" style="font-size: 21px;color: white;">Nhà hàng Nam Sơn</a>
+                        <a href="#" style="font-size: 21px;color: white;">Gà Mạnh Hoạch</a>
                     </small>
                 </div>
                 <!-- /Navbar Barnd -->
