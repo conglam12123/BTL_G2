@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Hệ thống quản lý nhà hàng Nam Sơn</title>
+    <title>Hệ thống quản lý nhà hàng Gà Mạnh Hoạch</title>
     <!--Basic Styles-->
     <link href="../../assets/css/bootstrap.min.css" rel="stylesheet" />
     <link href="../../assets/css/font-awesome.min.css" rel="stylesheet" />
@@ -38,7 +38,7 @@
                 <!-- Navbar Barnd -->
                 <div class="navbar-header pull-left" style="margin-top:4px;">
                     <small>
-                        <a href="#" style="font-size: 21px;color: white;">Nhà hàng Nam Sơn</a>
+                        <a href="#" style="font-size: 21px;color: white;">Gà Mạnh Hoạch</a>
                     </small>
                 </div>
                 <!-- /Navbar Barnd -->
